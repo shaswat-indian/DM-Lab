@@ -1,0 +1,10 @@
+name,quantity,price
+"Bread",2,10.5
+"Milk",1,40.0
+"Butter",5,125
+NA,10,500
+"Beer",3,500
+"Soap",2,75.5
+"Shampoo",NA,80
+"Bread",4,NA
+"Chocolate",10,400
